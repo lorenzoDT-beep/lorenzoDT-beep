@@ -32,16 +32,11 @@
 
 <br/>
 
-<!-- ==================== TILING SPLIT: CLASSICAL TEMPLE TERMINAL + CYBER BUST ART ==================== -->
+<!-- ==================== ARCHITECTURE SYSTEM TERMINAL ==================== -->
 
 <div align="center">
   <code>[ 🏛️ ARCHITECTURE ] lorenzo@backend-system: ~</code>
 </div>
-
-<table>
-  <tr>
-    <!-- LEFT PANE: CLASSICAL TEMPLE ASCII + SYSTEM SPECIFICATIONS -->
-    <td width="56%" valign="top">
 
 ```prolog
         _________________________          lorenzo@architecture
@@ -56,17 +51,6 @@
      |____________________________|        Database: MySQL · Relational Modeling
                                            Practice: Test-Driven Development (TDD) · Docker
 ```
-
-    </td>
-
-    <!-- RIGHT PANE: CYBER-HELLENIC CLASSICAL MARBLE BUST DRAWING -->
-    <td width="44%" align="center" valign="middle">
-      <img src="./assets/hellenic_cyber_bust.jpg" width="100%" alt="Classical Cyber Bust Illustration" style="border-radius: 8px; border: 1px solid #d4af37;" />
-      <br/>
-      <sub><code>[ CLASSICAL ARCHITECTURE & CODE ]</code></sub>
-    </td>
-  </tr>
-</table>
 
 ---
 
