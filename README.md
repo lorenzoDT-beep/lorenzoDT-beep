@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="mailto:lorenzo.ditoma2005@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lorenzo.ditoma2005@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
@@ -49,6 +49,7 @@
        ||    ||    ||    ||    ||          Async: Celery Task Queues · Redis
       _||____||____||____||____||_         Local AI: Ollama Engine Integration
      |____________________________|        Database: MySQL · Relational Modeling
+                                           Contact: lorenzo.ditoma2005@gmail.com
                                            Practice: Test-Driven Development (TDD) · Docker
 ```
 
